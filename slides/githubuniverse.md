@@ -45,7 +45,7 @@ Agit comme une aide à la coordination de l’écosystème. Notamment pour s’a
 ## GitHub Enterprise 2.19
 
 - Cette release apporte la prise en charge de WebAuthn
-- Cela signifie qu’on pourra utiliser des clés de sécurité physiques pour s’authentifier sur les principaux navigateurs et systèmes d’exploitation. <!-- .element: class="fragment" -->
+- Cela signifie qu’on pourra utiliser des clés de sécurité physiques pour s’authentifier sur les principaux navigateurs et systèmes d’exploitation <!-- .element: class="fragment" -->
 
 ---
 
@@ -81,19 +81,19 @@ Agit comme une aide à la coordination de l’écosystème. Notamment pour s’a
 
 ## Automatisation
 
-- Sortie en bêta de GitHub Acions et GitHub Packages
+- Sortie en bêta de GitHub Actions et GitHub Packages
 
 ---
 
 ### GitHub Actions
 
-Sert à automatiser les workflows (suite de tâches ou opérations effectuées) de développement et de CI/CD (intgégration continue/distribution continue)
+Sert à automatiser les workflows (suite de tâches ou opérations effectuées) de développement et de CI/CD (intégration continue/distribution continue).
 
 -----
 
 ### GitHub Packages
 
-Sert à faciliter la publication de paquets
+Sert à faciliter la publication des paquets.
 
 ---
 
