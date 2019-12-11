@@ -40,7 +40,7 @@ Après avoir été capturé et amené à Paris, il est rapidement considéré co
 
 ## La réinsertion 
 
-Jean Itard va donc lui apprendre le quotidien d'un enfant civilisé et le le language. Cependant il considère son incapacité à lui apprendre à parler comme un échec personnel.
+Jean Itard va donc lui apprendre le quotidien d'un enfant civilisé et le language. Cependant il considère son incapacité à lui apprendre à parler comme un échec personnel.
 
 ---
 
