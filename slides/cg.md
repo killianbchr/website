@@ -40,7 +40,11 @@ Après avoir été capturé et amené à Paris, il est rapidement considéré co
 
 ## La réinsertion 
 
+<<<<<<< HEAD
 Jean Itard va donc lui apprendre le quotidien d'un enfant civilisé et le language. Cependant il considère son incapacité à lui apprendre à parler comme un échec personnel.
+=======
+Jean Itard va donc lui apprendre le quotidien d'un enfant civilisé et le le language. Cependant il considère son incapacité à lui apprendre à parler comme un échec personnel.
+>>>>>>> Diapo français
 
 ---
 
@@ -62,4 +66,8 @@ Victor sera ensuite confié à Mme. Guérin qui reçoit une pension annuelle de 
 
 https://fr.wikipedia.org/wiki/L'Enfant_sauvage
 https://fr.wikipedia.org/wiki/Victor_de_l%27Aveyron
+<<<<<<< HEAD
 https://fr.wikipedia.org/wiki/Jean_Itard
+=======
+https://fr.wikipedia.org/wiki/Jean_Itard
+>>>>>>> Diapo français
