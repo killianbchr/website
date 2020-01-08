@@ -14,7 +14,7 @@
 
 - Inscription au prélable
 - Les célibataires sont mis en rapport par deux autour d'une table selon une durée déterminée (entre 3 et 8 minutes)
-- Aucune coordonnée personnelle ne doit être échangée, le participant ne doit dire à l'autre s'il souhaite le revoir
+- Aucune coordonnée personnelle ne doit être échangée, le participant ne doit pas dire à l'autre s'il souhaite le revoir
 
 ---
 
