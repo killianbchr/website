@@ -38,7 +38,8 @@
 ## Assurance qualité
 
 - Tests fonctionnels
-- Versionning permettant d'assurer une backup en cas de soucis
+- Versionning
+- Prise en compte des conseils donnés
 
 ---
 
@@ -53,7 +54,7 @@
 
 ## À améliorer
 
-- Différence entre les comptes normaux et entreprises
+- Différences entre les comptes normaux et entreprises
 - Limiter le nombre d'annonces par pages
 - Barre de recherche
-- Des catégories
+- Des catégories d'annonces
